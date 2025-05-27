@@ -151,7 +151,7 @@
 
 #svg-types-poster-container #card-svg-enthusiast {
     position: absolute;
-    bottom: -65%;
+    bottom: -40%;
     right: -30%;
 
     filter: drop-shadow(20px 8px 0px #111);
@@ -221,7 +221,7 @@
 
 #svg-types-info-one-container #card-svg-achiever {
     position: absolute;
-    bottom: -55%;
+    bottom: -30%;
     left: -30%;
 
     filter: drop-shadow(20px 8px 0px #111);
@@ -237,7 +237,7 @@
     justify-content: center;
     align-items: center;
 
-    height: 800vh;
+    height: 600vh;
     width: 100%;
 
     padding: 8%;
@@ -251,7 +251,7 @@
 
     width: 100%;
     max-width: 1920px;
-    height: 780vh;
+    height: 580vh;
     padding: 5%;
 
     background-color: var(--green-darker-darker);
@@ -330,7 +330,7 @@
     justify-content: center;
     align-items: center;
 
-    height: 200vh;
+    height: 160vh;
     width: 100%;
 
     padding: 8%;
@@ -345,7 +345,7 @@
 
     width: 100%;
     max-width: 1920px;
-    height: 180vh;
+    height: 140vh;
     padding: 5%;
 
     background-color: var(--green-darker-darker);
